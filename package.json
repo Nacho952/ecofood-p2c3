@@ -1,0 +1,24 @@
+{
+  "name": "ecofood-p2c3",
+  "version": "1.0.0",
+  "description": "somos el mejor equipo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nacho952/ecofood-p2c3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nacho952/ecofood-p2c3/issues"
+  },
+  "homepage": "https://github.com/Nacho952/ecofood-p2c3#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
