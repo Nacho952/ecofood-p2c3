@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Nacho952/ecofood-p2c3#readme",
   "dependencies": {
+    "bootstrap": "^5.3.2",
     "express": "^5.1.0"
   }
 }
